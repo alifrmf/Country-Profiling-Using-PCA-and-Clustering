@@ -1,4 +1,5 @@
-# 🌎Clustering Countries ![license](https://img.shields.io/github/license/alifrmf/Country-Profiling-Using-PCA-and-Clustering.svg) ![releases](https://img.shields.io/github/release/alifrmf/Country-Profiling-Using-PCA-and-Clustering.svg) [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://github.com/alifrmf/Country-Profiling-Using-PCA-and-Clustering/blob/main/Country%20Profiling%20Using%20PCA%20and%20Clustering.ipynb)
+# 🌎Clustering Countries ![license](https://img.shields.io/github/license/alifrmf/Country-Profiling-Using-PCA-and-Clustering.svg) ![releases](https://img.shields.io/github/release/alifrmf/Country-Profiling-Using-PCA-and-Clustering.svg) [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)]([https://github.com](http://nbviewer.org/github)/alifrmf/Country-Profiling-Using-PCA-and-Clustering/blob/main/Country%20Profiling%20Using%20PCA%20and%20Clustering.ipynb)
+
 Unsupervised Machine Learning Analysis Using Clustering Model
 
 ![Clustering Countries](https://user-images.githubusercontent.com/105715834/233062021-27a31cf2-ec26-4721-adef-c484becc0ba2.gif)
