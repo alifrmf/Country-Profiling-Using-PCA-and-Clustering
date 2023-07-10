@@ -16,6 +16,8 @@
 
 The goal of this project is to cluster countries based on various numerical features such as economic indicators, health factors, and social parameters. This is an unsupervised learning problem because we do not have any predefined categories or labels for the countries. We need to use machine learning techniques to create clusters of similar countries based on their features. The resulting clusters will help in the allocation of funds for assistance during natural disasters and calamities, as countries with similar characteristics are likely to face similar challenges during such events.
 
+![Presentation5](https://github.com/alifrmf/Country-Profiling-Using-PCA-and-Clustering/assets/105715834/9e4719fd-0278-480d-8f0f-b0661fedaeb3)
+
 
 ## Dataset 📔
 
